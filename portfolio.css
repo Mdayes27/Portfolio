@@ -54,3 +54,6 @@ li:last-child {
 .piclink:hover {
     opacity: 0.5;
 }
+.none {
+color:none; display: block; 
+}
